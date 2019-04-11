@@ -2,11 +2,10 @@
 
 
 ## 1. Objective
-* Scrape weather data from NOAA
-* Fetch FIPS and county information from Area and Census Clock API
-* Use Google Map API to match the station with county
-* Merge the weather data and geographical data
-* Analyze weather data with gun-crime data
+* Using python library (selenium and beautiful soup) to craw the review from different websites.
+* Organize data collected and preprocess the data
+* Perform analytic on the data collected and visualize the result
+* Train model to predict feature and find vital pattern the is the most impactful.
 
 ## 2.Prerequisite
 **Crawler**  
