@@ -35,13 +35,7 @@
 
 
 ## 4. Method
-### 4.1. Weather_Scraper.ipynb
-1. Use [NCDC Web Services](https://www.ncdc.noaa.gov/cdo-web/webservices/v2) to get all the [station](https://www.ncdc.noaa.gov/cdo-web/webservices/v2#stations) and [county](https://www.ncdc.noaa.gov/cdo-web/webservices/v2#locations) information.
-2. Query the weather data within given time range (2006-2018 in my case) given location id (county id).
-3. Store all the result into correspond county subdirectory. 
 
-### 4.2. weather gather & process.ipynb
-4. Other way to get NCDC weather data is download through ftp server. (ftp://ftp.ncdc.noaa.gov/pub/data/ghcn/daily/by_year/)
-5. Merge the weather data with station infromation
-6. Use FCC API to get the FIPS code and county name
-7. Use Google Map API to get the zipcode
+
+## 5. Result
+![result](Research presentation.pdf)
