@@ -22,15 +22,11 @@
 
 ### 3.1. Glassdoor
 **Glassdoor** provides reviews of current and former employee for many company.   
-![Glassdoor Icon](https://hiretulane.tulane.edu/sites/hiretulane.tulane.edu/files/logo-glassdoor-color.087f3470.png)  
+![Glassdoor Icon](https://hiretulane.tulane.edu/sites/hiretulane.tulane.edu/files/logo-glassdoor-color.087f3470.png=250x)  
 
 ### 3.2. Indeed
 **Indeed** provides reviews of current and former employee for many company as well.  
-![Indeed Icon](https://www.lifewire.com/thmb/PLDQoVGvvEeic5VObpOg7DvwTEA=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/indeed-logo-RGB-tagline-598f6af7396e5a00105fd927.jpg)  
-
-**Google Maps** provide python library for user to query geographical data through Internet.  
-[Google Map API Documentation](https://developers.google.com/maps/documentation)  
-![Google Map API Icon](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEVZ6BvNVnDepmtqdBRr3kqMN6nGZ4sgEPm6KX7kvN7u81YXjt)
+![Indeed Icon](https://www.lifewire.com/thmb/PLDQoVGvvEeic5VObpOg7DvwTEA=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/indeed-logo-RGB-tagline-598f6af7396e5a00105fd927.jpg=250x)  
 
 
 ## 4. Method
