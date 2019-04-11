@@ -38,4 +38,5 @@
 
 
 ## 5. Result
-![result](Research presentation.pdf)
+![result1](img/0001.jpg)
+![result2](img/0002.jpg)
