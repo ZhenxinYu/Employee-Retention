@@ -1,4 +1,4 @@
-<center> Employee Retension </center>
+# Employee Retension
 
 
 ## 1. Objective
@@ -11,7 +11,8 @@
 ## 2.Prerequisite
 1. [Python3](https://www.python.org/downloads/)
 2. [Pandas](https://pypi.org/project/pandas/)
-3. [Google Map API](https://github.com/googlemaps/google-maps-services-python)  
+3. [Selenium](https://selenium-python.readthedocs.io/)  
+4. [BeautifulSoup (bs4)](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 **Optional**
 4. [tqdm](https://github.com/tqdm/tqdm)
 5. [Rstudio](https://www.rstudio.com/)
@@ -19,15 +20,13 @@
 
 ## 3. Data Source
 
-### 3.1. Weather Data
-**National Oceanic and Atmospheric Administration (NOAA)** provides current and history climate data via web request.  
-[NCDC Web Services Documentation](https://www.ncdc.noaa.gov/cdo-web/webservices/v2)  
-![NOAA Icon](https://nsd.rdc.noaa.gov/images/NOAA_emblem.png)  
+### 3.1. Glassdoor
+**Glassdoor** provides reviews of current and former employee for many company.   
+![Glassdoor Icon](https://hiretulane.tulane.edu/sites/hiretulane.tulane.edu/files/logo-glassdoor-color.087f3470.png)  
 
-### 3.2. Geograpchical Data
-**Federal Communications Commission (FCC)** provides FIPS code and county information.  
-[Area and Census Block API](https://geo.fcc.gov/api/census/)  
-![FCC Icon](https://www.duluthnewstribune.com/sites/default/files/styles/16x9_620/public/fieldimages/1/1024/fcclogo.jpg?itok=G_A0TSxp)  
+### 3.2. Indeed
+**Indeed** provides reviews of current and former employee for many company as well.  
+![Indeed Icon](https://www.lifewire.com/thmb/PLDQoVGvvEeic5VObpOg7DvwTEA=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/indeed-logo-RGB-tagline-598f6af7396e5a00105fd927.jpg)  
 
 **Google Maps** provide python library for user to query geographical data through Internet.  
 [Google Map API Documentation](https://developers.google.com/maps/documentation)  
