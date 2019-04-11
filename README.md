@@ -9,19 +9,18 @@
 * Analyze weather data with gun-crime data
 
 ## 2.Prerequisite
-Crawler  
+**Crawler**  
 1. [Python3](https://www.python.org/downloads/)
 2. [Pandas](https://pypi.org/project/pandas/)
 3. [Selenium](https://selenium-python.readthedocs.io/)  
 4. [BeautifulSoup (bs4)](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)  
-Analysis  
+**Analysis**  
 5. [numpy](http://www.numpy.org/)
 6. [matplotlib](https://matplotlib.org/)
 7. [nltk](https://www.nltk.org/)
-8. [wordcloud](https://github.com/amueller/word_cloud)
-9. [Pillow](https://pillow.readthedocs.io/en/stable/)
-
-**Optional**
+8. [wordcloud](https://github.com/amueller/word_cloud)  
+9. [Pillow](https://pillow.readthedocs.io/en/stable/)   
+**Optional**   
 10. [tqdm](https://github.com/tqdm/tqdm)
 
 
