@@ -35,7 +35,11 @@
 
 
 ## 4. Method
+### 4.1. Reviews Crawler
+1. 
 
+### 4.2. Reviews Analysis
+1. 
 
 ## 5. Result
 ![result1](img/0001.jpg)
