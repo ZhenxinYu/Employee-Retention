@@ -22,12 +22,11 @@
 
 ### 3.1. Glassdoor
 **Glassdoor** provides reviews of current and former employee for many company.   
-![Glassdoor Icon](https://hiretulane.tulane.edu/sites/hiretulane.tulane.edu/files/logo-glassdoor-color.087f3470.png=250x)  
+<img src="https://hiretulane.tulane.edu/sites/hiretulane.tulane.edu/files/logo-glassdoor-color.087f3470.png" alt="Glassdoor Icon" width="500"/>
 
 ### 3.2. Indeed
 **Indeed** provides reviews of current and former employee for many company as well.  
-![Indeed Icon](https://www.lifewire.com/thmb/PLDQoVGvvEeic5VObpOg7DvwTEA=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/indeed-logo-RGB-tagline-598f6af7396e5a00105fd927.jpg)  
-<img src="https://www.lifewire.com/thmb/PLDQoVGvvEeic5VObpOg7DvwTEA=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/indeed-logo-RGB-tagline-598f6af7396e5a00105fd927.jpg" alt="Indeed Icon" width="250"/>
+<img src="https://www.lifewire.com/thmb/PLDQoVGvvEeic5VObpOg7DvwTEA=/768x0/filters:no_upscale():max_bytes(150000):strip_icc()/indeed-logo-RGB-tagline-598f6af7396e5a00105fd927.jpg" alt="Indeed Icon" width="500"/>
 
 
 ## 4. Method
