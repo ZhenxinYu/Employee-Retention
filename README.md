@@ -36,7 +36,9 @@
 
 ## 4. Method
 ### 4.1. Reviews Crawler
-1. 
+1. Setup selenium to open the browser. Here I used [chrome](http://chromedriver.chromium.org/) as my browser. For glassdor, they require user to login before viewing the reviews, so remeber create your own account and login before start crwaling.
+2. There are several ways to locate the elements that contain target information. For glassdoor, I used function in selenium and find the elements by looking xpath. For Indeed, I used beautifulsoup to process the html content I got from request library. Then, find the element by tag name and other attributes.
+3. To iterated through all the pages, I implement two different ways to achieve. For Indeed, By looking at the last page number, I can save url for all the reviews and go through them one by one. For glassdoor, I try to find the next button and keep crwaling unitl the next button is disabled and break the loop.
 
 ### 4.2. Reviews Analysis
 1. 
